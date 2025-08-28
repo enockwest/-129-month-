@@ -1,0 +1,6 @@
+# Allow all web crawlers full access
+User-agent: *
+Disallow:
+
+# Sitemap location (if you create a sitemap later)
+Sitemap: https://github.com/enockwest/-129-month-/blob/main/sitemap.xml
